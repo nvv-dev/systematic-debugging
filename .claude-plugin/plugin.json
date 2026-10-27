@@ -1,0 +1,16 @@
+{
+  "name": "systematic-debugging",
+  "version": "0.1.0",
+  "description": "Reproduce first, one hypothesis at a time, fix at the source, stop after three failed attempts, redact secrets.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/systematic-debugging",
+  "repository": "https://github.com/nvv-dev/systematic-debugging",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
